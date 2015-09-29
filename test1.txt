@@ -1,2 +1,2 @@
 just test
-add dev
+add AND dev
