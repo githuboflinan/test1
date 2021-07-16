@@ -1,3 +1,4 @@
 just test
 add and dev
+test ff
 test --no-ff
