@@ -3,4 +3,5 @@ add and dev
 test ff
 test git pull --ff
 merge ff false
+pull ff no
 test --no-ff
