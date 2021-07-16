@@ -2,6 +2,7 @@ just test
 add and dev
 test ff
 test git pull --ff
+merge ff false
 pull ff no
 test ff false merge merge merg
 test --no-ff
