@@ -1,3 +1,4 @@
 just test
 add and dev
+test git pull --ff
 test --no-ff
