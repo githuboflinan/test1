@@ -5,4 +5,5 @@ test git pull --ff
 merge ff false
 pull ff no
 test ff no
+test ff false merge merge merg
 test --no-ff
