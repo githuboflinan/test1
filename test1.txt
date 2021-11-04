@@ -9,3 +9,4 @@ test ff false merge merge merg
 test --no-ff
 test2
 test diverge
+test2 2
