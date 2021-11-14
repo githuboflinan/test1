@@ -12,3 +12,4 @@ test1 2
 test2
 test diverge
 test2 2
+test multi git
