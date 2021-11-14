@@ -13,3 +13,4 @@ test2
 test diverge
 test2 2
 test multi git
+test user origin
