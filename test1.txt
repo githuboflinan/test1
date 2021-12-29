@@ -12,5 +12,5 @@ test1 2
 test2
 test diverge
 test2 2
-
-test delete
+test multi git
+test user origin
