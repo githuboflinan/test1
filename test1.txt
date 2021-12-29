@@ -1,0 +1,18 @@
+just test
+add and dev
+test ff
+test git pull --ff
+merge ff false
+pull ff no
+test ff no
+test ff false merge merge merg
+test --no-ff
+test diverge
+test1 2
+test2
+test diverge
+test2 2
+test multi git
+test user origin
+
+add delete
