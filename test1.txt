@@ -16,3 +16,5 @@ test multi git
 test user origin
 
 add delete
+
+test pull no rebase
