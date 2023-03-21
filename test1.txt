@@ -19,3 +19,5 @@ test user origin
 add delete
 
 test pull no rebase
+
+test pull with rebase
