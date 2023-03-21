@@ -1,4 +1,5 @@
 just test
+test
 add and dev
 test ff
 test git pull --ff
