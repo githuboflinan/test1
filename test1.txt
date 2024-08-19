@@ -25,3 +25,5 @@ test pull with rebase
 
 test pull rebase conflict
 test5
+
+test rebase
