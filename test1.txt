@@ -31,3 +31,4 @@ test rebase
 
 test Rebase2
 add reBase1
+add reBase2
