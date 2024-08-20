@@ -38,3 +38,8 @@ add reBase3
 add text rebase1
 
 addTest3
+
+test1
+
+test2
+
