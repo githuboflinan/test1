@@ -5,3 +5,7 @@ rebase1
 rebase2
 
 addText3
+
+test1
+
+test2
